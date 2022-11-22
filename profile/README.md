@@ -1,5 +1,5 @@
-<img width="508" alt="logo-with-gradient-text" src="https://user-images.githubusercontent.com/720571/199305742-05a678df-47d9-49aa-b694-b792aac2d43f.png">
 
+![p0x-gradient](https://user-images.githubusercontent.com/720571/203366972-9db21e2c-83d0-4a4f-aaa8-84106e3e1244.svg)
 
-🙋‍♀️ p0x labs' mission is to democratize ZKP DApp development in Ethereum/Polkadot.
+🙋‍♀️ p0x labs' mission is to democratize zkDApp development in Ethereum/Polkadot.
 
